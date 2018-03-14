@@ -1,3 +1,5 @@
+#AUTOR<LILO>
+
 Leer el punto inicial y el punto final
 Dibujar punto inicial(x,y)
 Calcular parametros dx=|xf-xi|  dy=|yf-yi|
@@ -26,7 +28,7 @@ si dx>=dy
           y=y-1
           p=p+2(dy-dx)
         dibujar el pixel(x,y)
-  sino/////////
+  sino
     si yf>yi
       iterar desde x<xf --->([1,3],[5,1])
         si p<0
